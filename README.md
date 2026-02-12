@@ -1,8 +1,7 @@
 # 🍎 MacPorts PowerPC G4 Packages for Developers (OS X 10.5 Leopard)
 
-**Disclaimer**
+**Disclaimer**<br>
 This repository hosts pre-compiled MacPorts packages (binary installers) for PowerPC G4 machines running Mac OS X 10.5.8 (Leopard).
-Compiling GCC takes about 36 hours on a G4 processor on my system.
 
 **🏗 Build Environment:**
 * **Machine:** PowerBook G4 (Aluminum)
@@ -10,6 +9,8 @@ Compiling GCC takes about 36 hours on a G4 processor on my system.
 * **RAM:** 1.5 GB
 * **OS:** Mac OS X 10.5.8 Leopard
 * **MacPorts Version:** [PPCPorts](https://macos-powerpc.org/)
+
+**Building GCC takes about 36 hours on a G4 processor on my system. This is why I created this repository.**
 
 **📦 How to install:**
 These are `.mpkg` (Meta-Packages). They are standalone installers that **include all necessary dependencies** (like GMP, MPC, ISL, ZSTD, etc.).
