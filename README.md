@@ -22,4 +22,5 @@ These are `.mpkg` (Meta-Packages). They are standalone installers that **include
 * **gcc 13.3.0**
 * **gcc 14.3.0**
 * **git 2.52.0**
+* **cmake 3.31.10**
 * *(More ports will be added gradually as I compile them)*
